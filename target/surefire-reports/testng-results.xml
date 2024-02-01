@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-14T19:09:52 IST" name="Suite" finished-at="2023-12-14T19:09:52 IST" duration-ms="18">
+    <groups>
+    </groups>
+    <test started-at="2023-12-14T19:09:52 IST" name="Test" finished-at="2023-12-14T19:09:52 IST" duration-ms="18">
+      <class name="AppiumTest.AppiumTesting.TestNGAnnotationsExample">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="beforeSuite" finished-at="2023-12-14T19:09:52 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="beforeTest" finished-at="2023-12-14T19:09:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="beforeClass" finished-at="2023-12-14T19:09:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="beforeMethod" finished-at="2023-12-14T19:09:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testMethod1()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="testMethod1" finished-at="2023-12-14T19:09:52 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="afterMethod" finished-at="2023-12-14T19:09:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="testMethod3()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="testMethod3" finished-at="2023-12-14T19:09:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="beforeMethod" finished-at="2023-12-14T19:09:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="afterMethod" finished-at="2023-12-14T19:09:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="afterClass" finished-at="2023-12-14T19:09:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="afterTest" finished-at="2023-12-14T19:09:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:AppiumTest.AppiumTesting.TestNGAnnotationsExample@6193932a]" started-at="2023-12-14T19:09:52 IST" name="afterSuite" finished-at="2023-12-14T19:09:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- AppiumTest.AppiumTesting.TestNGAnnotationsExample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

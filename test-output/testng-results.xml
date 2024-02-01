@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-02T01:47:25 IST" name="Default suite" finished-at="2024-02-02T01:47:36 IST" duration-ms="10915">
+    <groups>
+    </groups>
+    <test started-at="2024-02-02T01:47:25 IST" name="Default test" finished-at="2024-02-02T01:47:36 IST" duration-ms="10915">
+      <class name="AppiumTest.AppiumTesting.Drag">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:AppiumTest.AppiumTesting.Drag@32502377]" started-at="2024-02-02T01:47:25 IST" name="configureAppium" finished-at="2024-02-02T01:47:32 IST" duration-ms="6843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="Test()[pri:0, instance:AppiumTest.AppiumTesting.Drag@32502377]" started-at="2024-02-02T01:47:32 IST" name="Test" finished-at="2024-02-02T01:47:36 IST" duration-ms="4012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:AppiumTest.AppiumTesting.Drag@32502377]" started-at="2024-02-02T01:47:36 IST" name="teardown" finished-at="2024-02-02T01:47:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- AppiumTest.AppiumTesting.Drag -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
